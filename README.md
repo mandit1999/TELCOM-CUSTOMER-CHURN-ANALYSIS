@@ -42,3 +42,4 @@ Service usage impact on churn
 # Conclusion
 The analysis shows that contract type, tenure, pricing, and service usage are major drivers of customer churn. Telecom companies can reduce churn by encouraging long-term contracts, improving onboarding for new customers, and promoting value-added services.
 #Output
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95ada27a-46bf-4c4d-934d-dc1671f98b4d" />
